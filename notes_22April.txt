@@ -1,0 +1,52 @@
+
+
+run java/c# applications
+server,database,framework
+os,network
+
+azure ->99.99999999% service availablity 
+downtime is less 
+SLA->Azure
+reliablity ->azure datacenter->japan ->disaster 
+backup ->take the data
+governance
+ country 
+ azure cloud india ->law 
+ azure cloud usa ->law 
+ region 
+la
+samplerg1->resourcegroup 
+  os
+  server
+  asp.net webapplication 
+  east us
+  
+  Microsoft Sandbox
+https://learn.microsoft.com/en-us/training/modules/execute-azure-function-with-triggers/4-create-timer-trigger?pivots=csharp&source=learn
+App Service ->PaaS
+Virtual Machine->IaaS
+
+
+employee ->contrator 
+  access personal ->office 365 +ms teams
+  VDI ->access 25Dollar
+  Image ->ready made os,platform for the software
+
+development environment 
+os,java,tomcat servlet->docker image
+production environment
+os,java,tomcat servlet->docker image
+
+office laptop 
+->image->office 365 ,notepad 
+os->office 365 
+
+app service ->
+ code 
+ docker image
+ azure resource template ->
+ infrastructure as code 
+
+
+irctc->azure cloud ->tatkal time 
+10 am 11 am

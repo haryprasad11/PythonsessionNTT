@@ -1,0 +1,13 @@
+virtual machine ->app service ->on premise
+lift and shift ->migrate cloud
+99.9999999999
+Azure active directory 
+  ->Microsoft Entra Id 
+  NTTDATA North America
+  
+  multiple cloud ->integrate 
+  azure devps->pipeline->configuration ->yaml
+  azure infrastructure as code->
+  cloud resources->machine readable configuration 
+  files
+  
